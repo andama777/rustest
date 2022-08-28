@@ -1,0 +1,14 @@
+2020/08/28 Mao Kanda
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+restart
+rustc main.rs
+./main
+cargo new hello
+hello/main.rs
+cargo test
+
+cargo new rvtest
+rustup target add riscv32imac-unknown-none-elf
+rustup install nightly
+git clone --recursive https://github.com/riscv/riscv-gnu-toolchain //install riscv toolchain
