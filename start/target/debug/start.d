@@ -1,0 +1,1 @@
+/mnt/c/Users/kanda.mao.18/Documents/GitHub/rustest/start/target/debug/start: /mnt/c/Users/kanda.mao.18/Documents/GitHub/rustest/start/src/hello.rs /mnt/c/Users/kanda.mao.18/Documents/GitHub/rustest/start/src/main.rs

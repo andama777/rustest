@@ -1,0 +1,6 @@
+2022/08/30
+cargo new lol
+make lol-cpu sim
+とりあえず写経してみる
+大体わかった forkして動かしてみる
+このフォルダは用済み
